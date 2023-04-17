@@ -43,7 +43,6 @@ public class Employee {
 
 	public void setAge(int age) {
 		this.age = age;
-	}
 
 //	@Override
 //	public String toString() {
@@ -98,6 +97,6 @@ public class Employee {
 	}catch(
 	Exception e1)
 	{
-		System.out.println(e11);
+//		System.out.println(e11);
 	}
 }}

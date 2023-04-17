@@ -4,7 +4,7 @@ public class Honda extends Bike{
 
 	void start() {
 		System.out.println("now honda is");
-		super.start();
+//		super.start();
 		System.out.println("self start");
 	}
 	public static void main(String[] args) {

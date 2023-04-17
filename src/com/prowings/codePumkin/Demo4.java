@@ -9,7 +9,7 @@ public class Demo4 {
 		System.out.println("2");
 	}
 	public static void main(String[] args) {
-		add(10,20);
+//		add(10,20);
 	}
 	
 	
